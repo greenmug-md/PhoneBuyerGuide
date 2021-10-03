@@ -43,7 +43,7 @@ o Sort by: 1. Price (low to high) 2. Price (high to low) 3.Rating(5to1)
 
 Mobile All Tab 
     
-![Screenshot_20211003-170231](https://user-images.githubusercontent.com/34758872/135751914-98b725a9-5c90-4d14-84d7-2bdda2901eaa.png)
+![alt text](https://user-images.githubusercontent.com/34758872/135751914-98b725a9-5c90-4d14-84d7-2bdda2901eaa.png)
 
 
 Favourites Tab
