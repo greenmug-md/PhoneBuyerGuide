@@ -29,7 +29,7 @@ class DetailsViewModel@Inject constructor(val mobileDataRepository: MobileDataRe
     private var _price = MutableLiveData<Double>();
     val price : LiveData<Double>
         get() = _price
-    private var imagesData = MutableLiveData<MobileImagesData>()
+     var imagesData = MutableLiveData<MobileImagesData>()
 
 
     fun setData(names:String, brands: String, descriptios:String,ratings:Double,prices:Double) {
