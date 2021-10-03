@@ -42,9 +42,9 @@ o Sort by: 1. Price (low to high) 2. Price (high to low) 3.Rating(5to1)
   -  Android Unit Testing
 
 Mobile All Tab 
-    
-![alt text](https://user-images.githubusercontent.com/34758872/135751914-98b725a9-5c90-4d14-84d7-2bdda2901eaa.png)
 
+<img width="623" src="https://user-images.githubusercontent.com/34758872/135751914-98b725a9-5c90-4d14-84d7-2bdda2901eaa.png">
+    
 
 Favourites Tab
 
@@ -63,8 +63,9 @@ Detail
 
 Swipe to Delete
 
+<img width="623" src="https://user-images.githubusercontent.com/34758872/135751966-9a9bb8be-25bf-4ebe-afb5-648d05c82451.png">
 
-![Screenshot_20211003-170316](https://user-images.githubusercontent.com/34758872/135751966-9a9bb8be-25bf-4ebe-afb5-648d05c82451.png)
+ 
 
 
  
