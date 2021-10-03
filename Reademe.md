@@ -63,5 +63,8 @@ Swipe to Delete
  
 
 ## Unit Testing
+
+Automated Tests are written. There were no Util classes so no Unit Tests are written only Automated tests.
+
 <img width="623" alt="Screenshot 2021-10-03 at 5 01 19 PM" src="https://user-images.githubusercontent.com/34758872/135751732-a0a7905a-5f96-4cf1-8f6e-030020de3089.png">
 
