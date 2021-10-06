@@ -88,10 +88,8 @@ class ProductFragment: Fragment(), FavouriteListener {
     override fun onResume() {
         super.onResume()
         viewLifecycleOwner?.lifecycleScope?.launch {
-            var s  = async { favouriteViewModel?.getFavourites(ctx?.preference?.getInt("SORT_CRTIERIA")) }
-            var d  = async { viewModel?.getContent(ctx?.preference?.getInt("SORT_CRTIERIA")) }
-            s.await();
-            d.await();
+            favouriteViewModel?.getFavourites(ctx?.preference?.getInt("SORT_CRTIERIA"))
+            viewModel?.getContent(ctx?.preference?.getInt("SORT_CRTIERIA"))
         }
     }
     override fun remove(id: Int) {

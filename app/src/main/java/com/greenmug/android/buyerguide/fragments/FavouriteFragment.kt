@@ -64,8 +64,7 @@ class FavouriteFragment : Fragment() {
     override fun onResume() {
         super.onResume()
         viewLifecycleOwner?.lifecycleScope?.launch {
-            var s  = async { viewModel?.getFavourites(ctx?.preference?.getInt("SORT_CRTIERIA")) }
-            s.await();
+            viewModel?.getFavourites(ctx?.preference?.getInt("SORT_CRTIERIA"))
         }
     }
 
